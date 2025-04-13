@@ -65,6 +65,6 @@ src/
 │   └── Navigation/RouteNavigation.js
 
 
-App Icon Integration: Though not part of the original requirements, a custom app icon was added to enhance branding.(JTW) The icon was downloaded from a LinkedIn website and integrated into  project configurations.
+App Icon Integration: Though not part of the original requirements, a custom app icon was added to enhance branding.The icon was downloaded from a royalty-free resource website integrated into  project configurations.
 🧾 Conclusion
 This app satisfies all major requirements of the logistics dashboard, including shipment tracking, driver monitoring, KPIs visualization, and real-time alert handling, all in a responsive and scalable React Native architecture.
